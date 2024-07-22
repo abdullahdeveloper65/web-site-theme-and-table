@@ -1,0 +1,96 @@
+div.bar1{
+    border: solid black ;
+    background-color: grey;
+    height:450px;
+    width: 400px;
+    color: white;
+    margin-top: 1%;
+    margin-left: 40%;
+   margin-top: 10%;
+   font-size: 27px;
+
+
+    
+}
+div.bar2{
+    background-color:rgb(6, 27, 145)  ;
+    border: black solid 1px;
+    color: white;
+    margin-top: 1%;
+    height: 30px;
+    width: 390px;
+    font-size: 27px;
+
+
+}
+div.bar3{
+    background-color:rgb(212, 31, 164)  ;
+    border: black solid 1px;
+    color: white;
+    margin-top: 2%;
+    font-size: 27px;
+    height: 30px;
+    width: 390px;
+    
+}
+div.bar4{
+    background-color:rgb(64, 212, 31)  ;
+    border: black solid 1px;
+    color: white;
+    margin-top: 2%;
+    height: 180px;
+    width: 380px;
+    font-size: 27px;
+    
+}
+div.bar5{
+    background-color:rgb(208, 125, 204)  ;
+    border: black solid 1px;
+    color: white;
+    margin-top: 1%;
+    margin-left: 2%;
+    font-size: 27px;
+    height: 140px;
+    width: 270px;
+}
+div.bar6{
+    background-color:rgb(208, 125, 125)  ;
+    border: rgb(167, 41, 225) solid 3px;
+    color: rgb(124, 9, 126);
+    width: 150px;
+   margin-left: 5%;
+   margin-top: 6%;
+}
+div.bar7{
+    background-color:rgb(208, 125, 125)  ;
+    border: rgb(167, 41, 225) solid 3px;
+    color: rgb(124, 9, 126);
+    width: 150px;
+   margin-left: 5%;
+   margin-top: 8%;
+
+}
+div.bar8{
+   margin-top: 4%;
+    
+    border: solid greenyellow 3px;
+    background-color: rgb(31, 54, 31);
+    height: 50px;
+    color: rgba(206, 246, 4, 0.952);
+    text-align: center;
+    padding-top: 6%;
+   
+    
+
+}
+div.bar9{ 
+    border: solid rgb(198, 112, 8) 3px;
+    background-color: rgb(245, 241, 5);
+    height: 30px;
+    color: rgba(132, 48, 20, 0.952);
+    text-align: center;
+    padding-bottom: 3%;
+    margin-top:2% ;
+   
+
+}
